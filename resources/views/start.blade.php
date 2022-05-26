@@ -20,6 +20,8 @@
                         <li>Faiz Ramadhan(24) / 12 RPL 2</li>
                         <li>Khairul Akbar(19) / 12 RPL 2</li>
                     </ul>
+                    <hr>
+                    <p class="text-center">KELOMPOK 8 </p>
                 </div>
             </div>
         </div>
