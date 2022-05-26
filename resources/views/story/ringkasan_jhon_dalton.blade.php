@@ -3,7 +3,7 @@
 <div class="mt-2">
 
     <br>
-    <h1 class="text-center"><b>Teori Dan Penemuan Atom <br> Jhon Dalton</b></h1>
+    <h1 class="text-center"><b>Ringkasan & Summary Jhon Dalton</b></h1>
     <br>
     <hr>
     <div class="mb-4 mt-2">
