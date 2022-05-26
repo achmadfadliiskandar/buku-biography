@@ -30,7 +30,10 @@
         <a href="story" class="btn btn-lg btn-outline-primary w-100 rounded-pill">Baca Disini</a>
     </div>
     <div class="col-6">
-        <a href="/" class="btn btn-lg btn-light w-100 rounded-pill">Kembali</a>
+        <a href="/" class="btn btn-lg btn-light w-100 rounded-pill"><- Kembali</a>
+    </div>
+    <div class="col-12 mt-4">
+       <center> <a href="{{ url('JhonDalton.pdf') }}" class=" text-dark"><u> Dapatkan Pdf (Versi OFFLINE) Disini </u></a> </center>
     </div>
 </div>
 

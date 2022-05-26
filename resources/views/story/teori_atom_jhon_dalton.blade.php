@@ -10,7 +10,7 @@
         <h3> Model Atom Dalton</h3>
         <div class="text-center mb-3">
             <img src="{{ url('penemuan1.png') }}"
-                class="w-75 img-fluid ${3|rounded-top,rounded-right,rounded-bottom,rounded-left,rounded-circle,|}" alt="">
+                class="w-75 img-fluid ${3|rounded-top,rounded-right,rounded-bottom,rounded-left,rounded-circle,|}" alt="Model Atom Modern">
         </div>
         <p style="text-indent: 1em; text-align:justify;">John Dalton (1776-1844) adalah ilmuwan yang pertama kali mengembangkan model atom antara tahun 1803 hingga 1808.</p>
         <p style="text-indent: 1em; text-align:justify;">Hipotesis Dalton digambarkan dengan model atom sebagai bola pejal seperti tolak peluru. Teori atom Dalton didasarkan pada anggapan: Semua benda terbuat dari atom Atom-atom tidak dapat dibagi maupun dipecah menjadi bagian lain Atom-atom tidak dapat dicipta maupun dihancurkan Atom-atom dari unsur tertentu adalah indentik satu terhadap lainnya dalam ukuran, massa, dan sifat-sifat yang lain, namun mereka berbeda dari atom-atom dari unsur-unsur yang lain Perubahan kimia merupakan penyatuan atau pemisahan dari atom-atom yang tak dapat dibagi, sehingga atom tidak dapat diciptakan atau dimusnahkan Sayangnya, teori Dalton tidak dapat menjelaskan bagaimana atom sebagai bola pejal dapat menghantarkan arus listrik. Padahal, listrik adalah elektron yang bergerak. Ia tak sempat membuktikan partikel lain yang menghantarkan arus listrik. Teori Dalton dianut hingga ratusan tahun kemudian hingga akhirnya dipatahkan oleh ilmuwan setelahnya.</p>
@@ -27,7 +27,7 @@
         <h3> Berat Atom </h3>
         <div class="text-center mb-3">
             <img src="{{ url('penemuan2.png') }}"
-                class="w-75 img-fluid ${3|rounded-top,rounded-right,rounded-bottom,rounded-left,rounded-circle,|}" alt="">
+                class="w-75 img-fluid ${3|rounded-top,rounded-right,rounded-bottom,rounded-left,rounded-circle,|}" alt="Rumus Sastra Berat Atom">
         </div>
         <p style="text-indent: 1em; text-align:justify;">Dalton menerbitkan tabel bobot atom relatif pertamanya yang mengandung enam elemen (hidrogen, oksigen, nitrogen, karbon, sulfur, dan fosfor), relatif terhadap berat atom hidrogen yang secara konvensional diambil sebagai 1.Karena ini hanya bobot relatif, mereka tidak memiliki satuan berat yang melekat padanya. Dalton tidak memberikan indikasi dalam tulisan ini bagaimana dia sampai pada angka-angka ini, tetapi dalam buku catatan laboratoriumnya, tertanggal 6 September 1803, adalah daftar di mana ia menetapkan bobot relatif atom-atom dari sejumlah elemen, yang berasal dari analisis air, amonia, karbon dioksida, dll. oleh para ahli kimia waktu itu.</p>
         <p style="text-indent: 1em; text-align:justify;">Perluasan gagasan ini ke zat pada umumnya harus membawanya ke hukum proporsi berganda, dan perbandingan dengan eksperimen dengan cemerlang mengkonfirmasi deduksinya.Dalam makalah "On the Proportion of the Several Gases in the Atmosphere", yang dibacakannya pada November 1802, hukum proporsi berganda tampaknya diantisipasi dalam kata-kata:

@@ -5,9 +5,11 @@
     <br>
     <h1 class="text-center"><b> Siapa Jhon Dalton? </b></h1>
     <br>
+    <hr>
+    <h3> Jhon Dalton</h3>
     <div class="text-center">
         <img src="https://i1.wp.com/www.amongguru.com/wp-content/uploads/2017/11/john-dalton-atom.png?fit=285%2C394&ssl=1"
-            class="w-50 img-fluid ${3|rounded-top,rounded-right,rounded-bottom,rounded-left,rounded-circle,|}" alt="">
+            class="w-50 img-fluid ${3|rounded-top,rounded-right,rounded-bottom,rounded-left,rounded-circle,|}" alt="Jhon Dalton">
     </div>
     <br>
     <div class="mb-4 mt-2">

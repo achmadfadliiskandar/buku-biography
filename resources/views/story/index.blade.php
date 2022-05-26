@@ -26,5 +26,5 @@ Table Of Content
       </li>
   </ul>
   <br>
-  <a href="/start">Kembali</a>
+  <a href="/start" class="text-dark"><- Kembali</a>
 @endsection
