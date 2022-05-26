@@ -65,6 +65,6 @@
         <p style="text-indent: 1em; text-align:justify;">Dalton menderita stroke ringan pada tahun 1837, dan yang kedua pada tahun 1838 membuatnya mengalami gangguan bicara, meskipun ia tetap dapat melakukan eksperimen. Pada Mei 1844 dia mengalami stroke lagi; pada 26 Juli dia merekam dengan tangan gemetar dalam pengamatan meteorologis terakhirnya. Pada tanggal 27 Juli, di Manchester, Dalton jatuh dari tempat tidurnya dan ditemukan tak bernyawa oleh pelayannya.</p>
         <p style="text-indent: 1em; text-align:justify;">Dalton diberi pemakaman sipil dengan penghargaan penuh. Tubuhnya terbaring di negara bagian di Balai Kota Manchester selama empat hari dan lebih dari 40.000 orang melewati peti matinya. Prosesi pemakaman termasuk perwakilan dari badan sipil, komersial, dan ilmiah utama kota. Dia dimakamkan di Manchester di Pemakaman Ardwick; kuburan sekarang menjadi lapangan bermain, tetapi gambar kuburan asli dapat ditemukan dalam materi yang diterbitkan.</p>
     </div>  
-    <a class="btn btn-dark mb-4" href="/story">Kembali</a>
+    <a class="btn btn-dark mb-4 rounded-pill" href="/story">Kembali</a>
 </div>
 @endsection

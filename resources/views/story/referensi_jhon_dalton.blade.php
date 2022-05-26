@@ -18,6 +18,6 @@
             </ul>
         </div>
     </div>
-    <a class="btn btn-dark mb-4" href="/story">Kembali</a>
+    <a class="btn btn-dark mb-4 rounded-pill" href="/story">Kembali</a>
 </div>
 @endsection

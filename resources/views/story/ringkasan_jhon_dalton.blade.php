@@ -23,6 +23,6 @@
         <p style="text-indent: 1em; text-align:justify;">Dalton also never married, and had only a few close friends. As a Quaker, he lived a simple and modest personal life.</p>
         <p style="text-indent: 1em; text-align:justify;">Since 26 years before his death, Dalton lived in a room at the home of Rev W. Johns, a published botanist, and his wife, on George Street, Manchester. Dalton and Johns died in the same year (1844).</p>
     </div>
-    <a class="btn btn-dark mb-4" href="/story">Kembali</a>
+    <a class="btn btn-dark mb-4 rounded-pill" href="/story">Kembali</a>
 </div>
 @endsection
