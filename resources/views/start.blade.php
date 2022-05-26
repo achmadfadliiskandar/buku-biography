@@ -18,14 +18,14 @@
                         <li>Achmad Fadli Iskandar(1) / 12 RPL 2</li>
                         <li>Dzaki Ahnaf Zulfikar(10) / 12 RPL 2</li>
                         <li>Faiz Ramadhan(24) / 12 RPL 2</li>
-                        <li>Khairul Akbar() / 12 RPL 2</li>
+                        <li>Khairul Akbar(19) / 12 RPL 2</li>
                     </ul>
                 </div>
             </div>
         </div>
     </div>
     <div class="col-6">
-        <a href="" class="btn btn-lg btn-outline-primary w-100 rounded-pill">Baca Disini</a>
+        <a href="story" class="btn btn-lg btn-outline-primary w-100 rounded-pill">Baca Disini</a>
     </div>
     <div class="col-6">
         <a href="/" class="btn btn-lg btn-light w-100 rounded-pill">Kembali</a>

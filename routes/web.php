@@ -27,4 +27,7 @@ Route::prefix('/story')->group(function(){
     Route::get('/',function(){
         return view('story.index');
     });
+    Route::get('/jhon_dalton',function(){
+        return view('story.jhon_dalton');
+    });
 });
