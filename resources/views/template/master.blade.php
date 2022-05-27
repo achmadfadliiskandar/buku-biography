@@ -10,7 +10,8 @@
     <!-- PWA  -->
     <meta name="theme-color" content="#6777ef" />
     <link rel="apple-touch-icon"
-        href="https://static.vecteezy.com/system/resources/previews/000/549/469/original/j-letter-vector-logo-template-illustration-design.jpg">
+        href="https://i.pinimg.com/originals/f1/07/62/f1076210572373e91c9187e3d971ecc3.jpg">
+    <link rel="shortcut icon" href="https://i.pinimg.com/originals/f1/07/62/f1076210572373e91c9187e3d971ecc3.jpg" type="image/x-icon">
     <link rel="manifest" href="{{ asset('/manifest.json') }}">
     <title>Tokoh [Jhon Dalton / JD]</title>
     <!-- Font Awesome -->

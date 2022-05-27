@@ -1,17 +1,15 @@
 {
-    "name": "Laravel Package Tutorial",
+    "name": "Ebook JhonDalton",
     "short_name": "LPT",
     "start_url": "/index.php",
-    "background_color": "#6777ef",
+    "background_color": "#2357db",
     "description": "Tutorial of Laravel Package",
     "display": "fullscreen",
-    "theme_color": "#6777ef",
-    "icons": [
-        {
-            "src": "logo.PNG",
-            "sizes": "512x512",
-            "type": "image/png",
-            "purpose": "any maskable"
-        }
-    ]
+    "theme_color": "#2357db",
+    "icons": [{
+        "src": "logo.PNG",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+    }]
 }
