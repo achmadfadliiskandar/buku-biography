@@ -7,7 +7,7 @@
     "display": "fullscreen",
     "theme_color": "#2357db",
     "icons": [{
-        "src": "logo.PNG",
+        "src": "idk.PNG",
         "sizes": "512x512",
         "type": "image/png",
         "purpose": "any maskable"
