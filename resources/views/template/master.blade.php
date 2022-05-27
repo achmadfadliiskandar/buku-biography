@@ -8,7 +8,7 @@
     <meta name="google" content="notranslate">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <!-- PWA  -->
-    <meta name="theme-color" content="#6777ef" />
+    <meta name="theme-color" content="#2357db" />
     <link rel="apple-touch-icon"
         href="https://i.pinimg.com/originals/f1/07/62/f1076210572373e91c9187e3d971ecc3.jpg">
     <link rel="shortcut icon" href="https://i.pinimg.com/originals/f1/07/62/f1076210572373e91c9187e3d971ecc3.jpg" type="image/x-icon">
