@@ -1,6 +1,6 @@
 {
     "name": "Ebook JhonDalton",
-    "short_name": "LPT",
+    "short_name": "Biografi Jhon Dalton",
     "start_url": "/index.php",
     "background_color": "#2357db",
     "description": "Tutorial of Laravel Package",
