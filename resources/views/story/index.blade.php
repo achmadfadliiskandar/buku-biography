@@ -24,6 +24,9 @@ Table Of Content
       <li class="list-group-item px-3 border-0">
         <a href="story/ringkasan_jhon_dalton" class="text-dark">Ringkasan</a>
       </li>
+      <li class="list-group-item px-3 border-0">
+        <a href="/credit" class="text-dark">Credit</a>
+      </li>
   </ul>
   <br>
   <a href="/start" class="text-dark"><- Kembali</a>

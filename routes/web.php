@@ -43,3 +43,6 @@ Route::prefix('/story')->group(function(){
         return view('story.ringkasan_jhon_dalton');
     });
 });
+Route::get('/credit',function(){
+    return view('story.credit');
+});
